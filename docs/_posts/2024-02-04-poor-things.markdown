@@ -3,6 +3,7 @@ layout: post
 title:  "Poor Things"
 date:   2024-02-04 12:45:00 +0100
 categories: reviews
+permalink: "/:categories/poor-things"
 ---
 I believe Yorgos Lanthimos went to see Barbie (and skipped Oppenheimer) and he quite liked it, but not one second did he think: "man, this is really similar to *my* latest work," because Poor Things[^1] is not Barbie[^2]. It also isn't the better Barbie. Sure, there are parallels: while Barbie learns some harsh truths about the world by encountering teenage girls in high school, hearing about the exhaustion of working a minimum wage job and gaining perspective about the inner workings of a large cooperation, Bella does so by enjoying the heat and temptations of Lisbon, suffering the sight of slaves in a ditch in Alexandria and battling the bleakness of Paris. And you could argue, that that's pretty much the same thing. But I would say, they are not that similar at all, especially in terms of vibes!
 
