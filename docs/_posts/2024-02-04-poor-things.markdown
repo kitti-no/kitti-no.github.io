@@ -12,5 +12,5 @@ And yet, there are also many great things; it's just really quite challenging an
 
 Poor Things winks at you non-stop. At times that feels seductive, empowering, inspiring and charming. And then sometimes, it's just so, so icky! 
 
-[^1]: Lanthimos, Y. (Director). [Poor Things.](https://www.imdb.com/title/tt14230458) (2023).  
+[^1]: [Poor Things.](https://www.imdb.com/title/tt14230458) (2023). Lanthimos, Y. (Director). 
 [^2]: [Barbie.](https://www.imdb.com/title/tt1517268/) (2023). Gerwig, G. (Director). 
